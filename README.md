@@ -14,7 +14,9 @@
 
 ## About-Process
 
-<p>Here's a quick way to search for a certain column name across all your tables in any database.</p>      
+<p>Here's a quick way to search for a certain column name across all your tables in any database.</p>     
+
+
 ## SQL-Logic
 ```SQL
 use master;
